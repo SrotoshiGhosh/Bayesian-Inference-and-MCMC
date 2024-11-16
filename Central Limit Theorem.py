@@ -4,7 +4,7 @@ Created on Fri May 17 11:08:41 2024
 
 Verification of the Central Limit Theorem for Normal Distribution
 
-@author: DELL
+@author: SROTOSHI GHOSH
 """
 
 import numpy as np
