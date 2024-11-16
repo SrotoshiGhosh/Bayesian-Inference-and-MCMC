@@ -2,9 +2,9 @@
 """
 Created on Wed Jul 17 17:40:06 2024
 
-Monte Carlo Integration-generalized
+Monte Carlo Integration- through Importance Sampling
 
-@author: DELL
+@author: SROTOSHI GHOSH
 """
 import numpy as np
 
