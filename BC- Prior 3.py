@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jun  8 18:00:17 2024
-
-@author: DELL
+Obtains posterior distribution for parallax problem for given specified prior
+@author: SROTOSHI GHOSH
 """
 
 import numpy as np
