@@ -4,7 +4,7 @@ Created on Tue May 28 10:56:46 2024
 
 Verification of the Central Limit Theorem for Cauchy Distribution
 
-@author: DELL
+@author: SROTOSHI GHOSH
 """
 
 import numpy as np
