@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jun  8 16:35:16 2024
-
-@author: DELL
+Solving the parallax problem using bayesian statistics for a specific prior distribution
+@author: SROTOSHI GHOSH
 """
 
 import numpy as np
