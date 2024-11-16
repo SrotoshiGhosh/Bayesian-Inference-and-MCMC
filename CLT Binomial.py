@@ -2,7 +2,7 @@
 """
 Created on Wed May 29 23:19:59 2024
 
-@author: DELL
+@author: SROTOSHI GHOSH
 """
 
 import numpy as np
